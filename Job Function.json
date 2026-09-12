@@ -1,0 +1,235 @@
+{
+  "AssignmentsFlagChecked": true,
+  "CompaniesFlagChecked": false,
+  "PeopleFlagChecked": true,
+  "ProgrammesFlagChecked": false,
+  "AdvertisementsFlagChecked": false,
+  "CopyFromCompanyToAssignment": false,
+  "Id": "00000000-0000-0000-0000-000000000000",
+  "CategoryName": "Job Function",
+  "AssociatedColour": "#DBDAFF",
+  "OrderIndex": 14,
+  "ShowDataColumns": false,
+  "Categories": [
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Administration",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Banking ",
+      "ChildCategories": [
+        {
+          "Id": "8373d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Compliance",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "8473d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Private Banking / Asset & Wealth Management",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "8573d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Risk management",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        }
+      ],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Communication ",
+      "ChildCategories": [
+        {
+          "Id": "9273d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Digital communication",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        }
+      ],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Customer service / support",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Education",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Engineering / R&D",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Finance",
+      "ChildCategories": [
+        {
+          "Id": "8a73d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Accounting",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "8973d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Audit",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "8873d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Controlling",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        }
+      ],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Human Resources",
+      "ChildCategories": [
+        {
+          "Id": "8c73d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Learning & Development",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "8d73d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Recruitment",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        }
+      ],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "IT",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Legal",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Marketing",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Medical Staff",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Operations",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Procurement",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Sales",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    }
+  ]
+}

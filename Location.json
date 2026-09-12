@@ -1,0 +1,529 @@
+{
+  "AssignmentsFlagChecked": true,
+  "CompaniesFlagChecked": true,
+  "PeopleFlagChecked": true,
+  "ProgrammesFlagChecked": false,
+  "AdvertisementsFlagChecked": false,
+  "CopyFromCompanyToAssignment": false,
+  "Id": "00000000-0000-0000-0000-000000000000",
+  "CategoryName": "Location",
+  "AssociatedColour": "#FFFEC6",
+  "OrderIndex": 16,
+  "ShowDataColumns": false,
+  "Categories": [
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Austria",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Belgium",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Bulgaria",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Cyprus",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Czech Republic",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Denmark",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Estonia",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Finland",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "France",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Germany",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Greece",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Hungary",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "International",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Italy",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Latvia",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Liechtenstein",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Lithuania",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Luxembourg",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Malta",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Netherlands",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Poland",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Portugal",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Republic of Ireland",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Romania",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Russia",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Slovakia",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Slovenia",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Spain",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Sweden",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Switzerland",
+      "ChildCategories": [
+        {
+          "Id": "d573d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Aargau",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "d473d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Appenzell",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "d673d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Basel",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "d773d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Bern",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "d873d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Biel/Bienne",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "d973d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Fribourg",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "da73d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Genève",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "db73d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Glarus",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "dc73d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Grisons",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "dd73d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Jura",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "de73d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Lucern",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "df73d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Neuchâtel",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "e073d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Nidwalden",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "e173d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Obwalden",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "e273d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Schaffhausen",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "e373d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Schwyz",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "e473d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Solothurn",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "e573d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "St Gallen",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "e673d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Thurgau",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "e773d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Ticino",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "e873d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Uri",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "e973d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Valais/Wallis",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "ea73d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Vaud",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "eb73d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Zug",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "ec73d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Zurich",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        }
+      ],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Turkey",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "United Kingdom",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    }
+  ]
+}

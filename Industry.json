@@ -1,0 +1,305 @@
+{
+  "AssignmentsFlagChecked": true,
+  "CompaniesFlagChecked": true,
+  "PeopleFlagChecked": true,
+  "ProgrammesFlagChecked": false,
+  "AdvertisementsFlagChecked": false,
+  "CopyFromCompanyToAssignment": false,
+  "Id": "00000000-0000-0000-0000-000000000000",
+  "CategoryName": "Industry",
+  "AssociatedColour": "#FBD0E1",
+  "OrderIndex": 12,
+  "ShowDataColumns": false,
+  "Categories": [
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Advertising & Marketing",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Agriculture",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Banking",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Construction",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Consulting",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Culture",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Education",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Engineering",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Environment &Energy",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Financial services",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "FMCG",
+      "ChildCategories": [
+        {
+          "Id": "6773d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "FMCG Food",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        },
+        {
+          "Id": "6873d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "FMCG Non Food",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        }
+      ],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Health ",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Hospitality",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Legal",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Life Sciences",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Luxury",
+      "ChildCategories": [
+        {
+          "Id": "7073d107-26fb-ed11-8aae-a085fcc619e8",
+          "CategoryName": "Watch",
+          "ChildCategories": [],
+          "Key": null,
+          "ParentKey": null,
+          "IsDirty": false,
+          "IsDeleted": false
+        }
+      ],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Manufacturing & Industry",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Media",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "NGO/Association",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Oil & Gas",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Private",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Public",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Real Estate",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Retail",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Services",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Sports",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Technology & IT",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Trading  (mining, Oil & Gas)",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "CategoryName": "Transport/Mobility",
+      "ChildCategories": [],
+      "Key": null,
+      "ParentKey": null,
+      "IsDirty": false,
+      "IsDeleted": false
+    }
+  ]
+}
